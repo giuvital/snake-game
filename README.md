@@ -1,1 +1,1 @@
-# snake-game
+Jogo criado com JavaScript. 
